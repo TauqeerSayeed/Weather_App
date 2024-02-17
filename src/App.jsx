@@ -13,7 +13,7 @@ function App() {
           <footer>
             Open-source code by tauqeer_sayeed on {""}
             <a
-              href="https://github.com/anndcodes/react-weather-app"
+              href="https://github.com/TauqeerSayeed/Weather_App"
               target="_blank"
             >
               <strong>Github</strong>
